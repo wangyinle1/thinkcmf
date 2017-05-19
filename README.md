@@ -1,5 +1,7 @@
 ThinkCMF 5.0 RC3
 ===============
+### 赞助者招募
+[查看招募令http://www.thinkcmf.com/supportcmf/goldsponsor.html](http://www.thinkcmf.com/supportcmf/goldsponsor.html)
 
 ### 环境推荐
 > php5.5+
@@ -123,7 +125,11 @@ thinkcmf  根目录
 http://www.kancloud.cn/thinkcmf/doc
 
 ### QQ群:
-ThinkCMF 高级交流群:100828313 (付费)  
+`ThinkCMF 官方交流群`:316669417  
+   
+`ThinkCMF 高级交流群`:100828313 (付费)  
+高级群专属权益:  
+第一波:两个后台风格(ThinkCMF官网风格后台主题,蓝色风格后台主题)
 
 ### 话题专区
 http://www.thinkcmf.com/topic/index/index/cat/11.html

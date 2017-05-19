@@ -31,7 +31,7 @@
                     ];
                 </php>
 
-                {:hook('comment',$comment_hook_param)}
+                <hook name="comment" param="comment_hook_param"/>
             </div>
 
         </div>
@@ -79,7 +79,7 @@
                                             <img src="__TMPL__/public/assets/images/default_tupian4.png"
                                                  class="img-responsive" alt="{$vo.post_title}"/>
                                             <else/>
-                                            <img src="__TMPL__/public/assets/images/default_tupian4.png"
+                                            <img src="{:cmf_get_image_url($vo.more.thumbnail)}"
                                                  class="img-responsive" alt="{$vo.post_title}"/>
                                         </if>
                                     </a>
